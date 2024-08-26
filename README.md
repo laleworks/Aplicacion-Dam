@@ -1,7 +1,7 @@
 # Aplicacion-Dam
 Aplicación Dam para proyecto final de grado superior
 Enlace para obtener la app: https://payhip.com/b/8qF6j
-Aplicación original creada desde cero
+Aplicación original creada desde cero comprobada
 
 Trae todos los archivos necesarios y requeridos para la correcta realización del proyecto.
 
